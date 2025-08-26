@@ -1,15 +1,15 @@
-body{
-    background-color: aqua;
+body {
+    background-color: lch(48.23% 64.4 305.47);
     color: white;
-    font-family: "Bai jamjuree",sans-serif;
+    font-family: "Bai jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
     margin: 0;
 }
-button{
- background-color: aqua;
+button {
+    background-color: rgb(166, 96, 220);
     color: white;
-    font-family: "Bai jamjuree",sans-serif;
+    font-family: "Bai jamjuree", sans-serif;
 }
